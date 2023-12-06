@@ -9,3 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've always hated coffee, but after becoming a programmer I started drinking it every day, what is that? a rule? hahahahaha
 -->
+![snake gif](https://github.com/eubrunocase/eubrunocase/blob/output/github-contribution-grid-snake.svg)
