@@ -1,6 +1,6 @@
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java to frontend development using Angular, I am <strong> passionate to discover new stuffs </strong> and use them to create high smart solutions. Today, I'm a<strong>full stack mid-level developer </strong> focused on backend development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> A young man passionate about technology and eager to use it to develop complex ideas and projects to help improve people's lives. Today I am a Java backend developer.</p>&nbsp;
 
 
  
