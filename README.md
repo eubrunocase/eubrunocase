@@ -49,4 +49,3 @@
 
 <img src="https://raw.githubusercontent.com/eubrunocase/eubrunocase/output/snake.svg" alt="Snake animation" />
 
-###
